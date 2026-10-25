@@ -80,10 +80,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,unity,blender" />
 </p>
 
-### DATA ANALYTICS TOOLS 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=<i class="cib-tableau"></i>" />
-</p>
 
 ## 📊 GitHub Stats
 <p align="center">
