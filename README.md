@@ -49,12 +49,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,machine learning,python,data analytics,data visualisation,git,mySQL,TABLEAU" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushhkr18&show_icons=true&theme=tokyonight" />
-</p>
-## 💻 Tech Stack
-
 ### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
@@ -83,4 +77,9 @@
 ### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,unity,blender" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushhkr18&show_icons=true&theme=tokyonight" />
 </p>
