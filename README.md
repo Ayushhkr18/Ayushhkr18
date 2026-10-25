@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
 
-<!--
-**Ayushhkr18/Ayushhkr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B.Tech CSE (DAML) Student | DATA ANALYTICS | AI/ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building web applications, exploring AI technologies, solving DSA problems, and creating impactful projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushhkr18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ayushhkr18?label=Followers&style=for-the-badge&color=0077B6" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 3rd Year B.Tech CSE (DAML) Student at CUTM
+- 🌱 Currently learning **Web Development**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
+- 🚀 Building projects and improving problem-solving skills
+- 🎯 Looking for Software Development & AI/ML Internship Opportunities
+- 📫 Reach me at [iamayushh18@gmail.com](mailto:iamayushh18@gmail.com)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https:www.linkedin.com/in/ayushh-kumar89">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_ayushh._18?psln=dWdvN296cDJnc3R6">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Ayushh_89/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/ayushh18._41404">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
