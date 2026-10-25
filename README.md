@@ -82,7 +82,7 @@
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=vscode,unity,blender,tableau,canva" />
 </p>
 
 ## 📊 GitHub Stats
