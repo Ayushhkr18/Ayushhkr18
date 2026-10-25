@@ -107,3 +107,23 @@
 </p>
 
 ---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushhkr18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🧱 Web Development
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Deep Learning
+- 🚀 Open Source Contributions
+
+---
+
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
