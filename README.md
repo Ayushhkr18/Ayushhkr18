@@ -91,16 +91,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-shyamachari&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushhkr18&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-shyamachari&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushhkr18&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-shyamachari&theme=github_dark" />
-  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-shyamachari&theme=github_dark" />
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushhkr18&theme=github_dark" />
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushhkr18&theme=github_dark" />
 </p>
 
 ---
