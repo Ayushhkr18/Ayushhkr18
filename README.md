@@ -83,3 +83,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushhkr18&show_icons=true&theme=tokyonight" />
 </p>
+
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+</p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-shyamachari&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-shyamachari&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-shyamachari&theme=github_dark" />
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-shyamachari&theme=github_dark" />
+</p>
+
+---
