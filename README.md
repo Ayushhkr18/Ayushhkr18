@@ -82,7 +82,7 @@
 
 ### DATA ANALYTICS TOOLS 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=excel,TABLEAU" />
+  <img src="https://skillicons.dev/icons?i=<i class="cib-tableau"></i>" />
 </p>
 
 ## 📊 GitHub Stats
