@@ -118,12 +118,13 @@
 
 ## 🎯 Current Focus
 
-- 🧱 Web Development
+- 🧱 Web Development , Data Analytics
 - 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence & Deep Learning
+- 🤖 Artificial Intelligence , Machine Learning & Deep Learning
 - 🚀 Open Source Contributions
 
 ---
+
 
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
