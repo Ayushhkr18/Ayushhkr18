@@ -69,6 +69,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+</p>
+
 ### Cloud & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github" />
@@ -84,10 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushhkr18&show_icons=true&theme=tokyonight" />
 </p>
 
-### AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
-</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
