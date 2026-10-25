@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
+ <h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
 
 <h3 align="center">B.Tech CSE (DAML) Student | DATA ANALYTICS | AI/ML Enthusiast</h3>
 
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🎓 3rd Year B.Tech CSE (DAML) Student at CUTM
-- 🌱 Currently learning **Web Development**,**Data Analytics**,**Machine Learning**And **Deep learning
+- 🌱 Currently learning **Web Development**,**Data Analytics,Machine Learning And Deep learning**
 - 💻 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🚀 Building projects and improving problem-solving skills
