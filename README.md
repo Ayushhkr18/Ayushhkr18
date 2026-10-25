@@ -45,7 +45,6 @@
 ---
 
 ## 🛠️ Tech Stack
----
 ### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
