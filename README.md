@@ -45,6 +45,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,machine learning,python,data analytics,data visualisation,git,mySQL,TABLEAU" />
 </p>
