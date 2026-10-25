@@ -45,11 +45,7 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,machine learning,python,data analytics,data visualisation,git,mySQL,TABLEAU" />
-
-
+---
 ### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
@@ -84,7 +80,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,unity,blender,tableau,canva" />
 </p>
-</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
