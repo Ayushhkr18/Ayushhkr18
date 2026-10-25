@@ -53,3 +53,34 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushhkr18&show_icons=true&theme=tokyonight" />
 </p>
+## 💻 Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Cloud & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,unity,blender" />
+</p>
