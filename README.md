@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🎓 3rd Year B.Tech CSE (DAML) Student at CUTM
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently learning **Web Development**,**Data Analytics**,**Machine Learning**And **Deep learning
 - 💻 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🚀 Building projects and improving problem-solving skills
@@ -120,6 +120,8 @@
 - 🚀 Open Source Contributions
 
 ---
+
+
 
 
 
