@@ -20,7 +20,7 @@
 - 💻 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🚀 Building projects and improving problem-solving skills
-- 🎯 Looking for Software Development & AI/ML Internship Opportunities
+- 🎯 Looking for Software Development Data Analytics & AI/ML Internship Opportunities
 - 📫 Reach me at [iamayushh18@gmail.com](mailto:iamayushh18@gmail.com)
 
 ---
@@ -28,7 +28,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https:www.linkedin.com/in/ayushh-kumar89">
+  <a href="www.linkedin.com/in/ayushh-kumar89">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_ayushh._18?psln=dWdvN296cDJnc3R6">
@@ -77,9 +77,13 @@
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,unity,blender,tableau,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,unity,blender" />
 </p>
 
+### DATA ANALYTICS TOOLS 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel,TABLEAU" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
